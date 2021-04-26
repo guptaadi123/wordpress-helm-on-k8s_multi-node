@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  Wordress:
+  - apiVersion: v1
+    appVersion: 1.1.0
+    created: "2021-04-21T15:53:22.256365+05:30"
+    description: Wordpress for Kubernetes
+    digest: 7e8c165327f1dcdf3f3901444d768d3d994ae1c4a8db0d76c97ff9ae744b5895
+    name: Wordress
+    type: application
+    urls:
+    - Wordress-0.2.0.tgz
+    version: 0.2.0
+generated: "2021-04-21T15:53:22.2553887+05:30"

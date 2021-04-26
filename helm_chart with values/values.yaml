@@ -1,0 +1,4 @@
+replicaCount: 3
+service:
+    type: NodePort
+    port: 30001
